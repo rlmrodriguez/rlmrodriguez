@@ -13,13 +13,13 @@ Here are a few things I've picked up along my learning journey:
 
 - HTML
 - CSS / SASS
-- JavaScript
-- Bootstrap
+- JavaScript / React JS 
+- Bootstrap / Tailwind
 
 - - - -
 🌱 **What I'm Learning**
-- React >>> MERN
-- PHP/Laravel
+- ReactJS >> Node.js >>> ExpressJS >>> complete MERN stack
+- Web3 Fundamentals (eventually)
 - - - -
 
 
