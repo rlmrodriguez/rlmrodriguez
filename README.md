@@ -4,7 +4,7 @@
 
 🙋🏽‍♂️ **About Me**
 
-I wear many hats depending on what's required of me but first of all, I'm a passionate learner, an Agricultural Engineer, a gamer and a self-taught Web Developer. 
+I wear many hats depending on what's required of me but to tell you a little bit of something about myself - I'm a passionate learner, an Agricultural Engineer, a gamer and a self-taught Web Developer. 
 - - - -
 
 👨🏽‍💻 **Tech Stack**
@@ -19,7 +19,7 @@ Here are a few things I've picked up along my learning journey:
 - - - -
 🌱 **What I'm Learning**
 - ReactJS >> Node.js >>> ExpressJS >>> complete MERN stack
-- Web3 Fundamentals (eventually)
+- Web3 Fundamentals (eventually 🙏)
 - - - -
 
 
